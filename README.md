@@ -1,4 +1,4 @@
-# HR_Employee_Performance_And_Salary_Analysis
+# Employee_Performance_And_Salary_Analysis
 
 **To analyze employee performance, department-wise salary distribution, attrition trends, and promotions using SQL.**
 
